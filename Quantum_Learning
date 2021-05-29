@@ -1,1 +1,6 @@
-Quantum Learning
+Quantum Learning from Qiskit Notes from IBM Qiskit Notes
+
+Qubit:
+The smallest unit of information:either 0 or a 1.
+ |0> and |1> are called as kets 
+-> Qubit can have value either 0 and 1 until measurement is done we will et exact value it is having. 
